@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ejerciciodosjpa.veterinaria.VeterinariaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.63 s -- in com.ejerciciodosjpa.veterinaria.VeterinariaApplicationTests

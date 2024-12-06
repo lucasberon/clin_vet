@@ -1,0 +1,12 @@
+com\ejerciciodosjpa\veterinaria\service\MascotaService.class
+com\ejerciciodosjpa\veterinaria\controller\MascotaController.class
+com\ejerciciodosjpa\veterinaria\model\Mascota.class
+com\ejerciciodosjpa\veterinaria\controller\DuenoController.class
+com\ejerciciodosjpa\veterinaria\service\DuenoService.class
+com\ejerciciodosjpa\veterinaria\model\Dueno.class
+com\ejerciciodosjpa\veterinaria\VeterinariaApplication.class
+com\ejerciciodosjpa\veterinaria\repository\IMascotaRepository.class
+com\ejerciciodosjpa\veterinaria\service\IMascotaService.class
+com\ejerciciodosjpa\veterinaria\service\IDuenoService.class
+com\ejerciciodosjpa\veterinaria\dto\MascotaDuenoDTO.class
+com\ejerciciodosjpa\veterinaria\repository\IDuenoRepository.class
